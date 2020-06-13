@@ -1,5 +1,4 @@
-# BlackJack
-BlackJack Card Game in Python.   
+# BlackJack   
 
 This game is the simplest Black Jack casino game ever. The game is between the player and computer dealer. It includes hit, stand and adjust for ace features only! If the total value of the cards exceed 21 by the player, then he/she gets busted and the computer dealer wins and vice-versa.
 
