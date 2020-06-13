@@ -56,7 +56,7 @@ class Hand():
             self.value -= 10
             self.aces -=1
 
-# FUNCTION DEFINATIONS:
+
 class Chips():
 
     def __init__(self):
@@ -70,6 +70,7 @@ class Chips():
         self.total -= self.bet
 
 
+# FUNCTION DEFINATIONS:
 def take_bet(chips):
     while True:
         try:
